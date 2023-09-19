@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @el-morita
 - 👀 I’m interested in ...putting my skills to good use.
-- 🌱 I’m currently learning ...SQL, Javascript, web scraping, and more!
+- 🌱 I’m currently learning ...SQL, Javascript, web scraping, HTML, CSS, pdAdmin, Node, and more!
 - 💞️ I’m looking to collaborate on ...anything interesting. 
 - 📫 How to reach me ...
 
